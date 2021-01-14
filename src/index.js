@@ -1,8 +1,8 @@
 import React from 'react';
-import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/index.css';
 
+//ceci est une modif
 import Menu from './views/Menu';
 import Footer from './views/Footer';
 import App from './views/App';
